@@ -4,8 +4,6 @@
 
 This is a fully functional plant disease detection web app that is already deployed on the Heroku cloud platform. If you wish to run this project locally or deploy it yourself, follow the instructions below:
 
-
-
 Local Setup Instructions:
 
 \- Make sure you have Python installed.
